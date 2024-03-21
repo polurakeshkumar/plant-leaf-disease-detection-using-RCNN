@@ -20,8 +20,6 @@ Run the python script named &quot;data\_preprop.py&quot; by copying your images 
 
 **Training:**
 
-You can get the [official faster R-CNN repository](https://github.com/kbardool/keras-frcnn) as a base code. But I have made few changes/corrections in the validation code and added video detection code in my github repository.
-
 I have trained my model using google colab and can find further instructions in the &quot;leaf\_disease\_detection\_fasterRCNN\_colab.ipynb&quot; python notebook if you are using google colab.
 
 Run the following code for training with data augmentation.
